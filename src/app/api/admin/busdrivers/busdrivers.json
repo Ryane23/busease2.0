@@ -1,0 +1,47 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe1@example.com",
+    "phone": "1234567890",
+    "licenseNumber": "LIC12345",
+    "company": "60f7c2b8e1b2c8a1b4d5e6f7",
+    "password": "password1",
+    "status": "available"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith2@example.com",
+    "phone": "2345678901",
+    "licenseNumber": "LIC23456",
+    "company": "60f7c2b8e1b2c8a1b4d5e6f7",
+    "password": "password2",
+    "status": "on_trip"
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michael.brown3@example.com",
+    "phone": "3456789012",
+    "licenseNumber": "LIC34567",
+    "company": "60f7c2b8e1b2c8a1b4d5e6f7",
+    "password": "password3",
+    "status": "off_duty"
+  },
+  {
+    "name": "Emily Davis",
+    "email": "emily.davis4@example.com",
+    "phone": "4567890123",
+    "licenseNumber": "LIC45678",
+    "company": "60f7c2b8e1b2c8a1b4d5e6f7",
+    "password": "password4",
+    "status": "available"
+  },
+  {
+    "name": "Chris Wilson",
+    "email": "chris.wilson5@example.com",
+    "phone": "5678901234",
+    "licenseNumber": "LIC56789",
+    "company": "60f7c2b8e1b2c8a1b4d5e6f7",
+    "password": "password5",
+    "status": "on_trip"
+  }
+]

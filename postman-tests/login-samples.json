@@ -1,0 +1,25 @@
+{
+  "adminLogin": {
+    "email": "admin@busease.com",
+    "password": "Admin123!",
+    "role": "admin"
+  },
+  
+  "passengerLogin": {
+    "email": "passenger@example.com",
+    "password": "Pass123!",
+    "role": "passenger"
+  },
+  
+  "driverLogin": {
+    "email": "driver@busease.com",
+    "password": "Driver123!",
+    "role": "busdriver"
+  },
+  
+  "agentLogin": {
+    "email": "agent@busease.com",
+    "password": "Agent123!",
+    "role": "busagent"
+  }
+}
